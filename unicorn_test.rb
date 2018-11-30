@@ -45,3 +45,8 @@ class UnicornTest < Minitest::Test
     assert_equal "**;* splendiferous **;*", unicorn.say("splendiferous")
    end
 end
+
+=begin
+Really need to focus on moving really slowly and just about passing the test. 
+More practice required for sure!!1
+=end
